@@ -2,7 +2,7 @@
 go module for exercise 4
 
 # Steps to create module for exercise
-
+```
 >:~/repos/udemy$ git clone https://github.com/hauk3wu1ff/go-module-ex4.git
 Cloning into 'go-module-ex4'...
 remote: Enumerating objects: 5, done.
@@ -47,4 +47,4 @@ Total 0 (delta 0), reused 0 (delta 0)
 To https://github.com/hauk3wu1ff/go-module-ex4.git
  * [new tag]         v0.1.0 -> v0.1.0
 
-
+```
